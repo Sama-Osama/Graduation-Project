@@ -1,0 +1,1258 @@
+{
+  "admins": [
+    {
+      "id": "b167",
+      "firstname": "sama",
+      "lastname": "shapan",
+      "password": "123456",
+      "email": "nurse@gmail.com",
+      "phone": "102225691",
+      "gender": "female",
+      "NID": "2",
+      "salary": "99999999999",
+      "department": "Heart",
+      "role": "Nurse",
+      "img": {},
+      "Bdate": "2024-06-28",
+      "image": "C:\\fakepath\\images.jpeg",
+      "type": "Nurse"
+    },
+    {
+      "id": "b167",
+      "firstname": "Nour",
+      "lastname": "hamid2",
+      "password": "1234566666666666",
+      "email": "reciption@gmail.com",
+      "phone": "0102225695455",
+      "gender": "female",
+      "NID": "3",
+      "salary": "999999999999855",
+      "department": "Heart",
+      "role": "Secrtry",
+      "img": null,
+      "Bdate": "2024-06-09",
+      "image": "C:\\fakepath\\images.jpeg",
+      "type": "Recepion"
+    },
+    {
+      "id": "b167",
+      "firstname": "Rania",
+      "lastname": "hamid2",
+      "password": "1234566666666666",
+      "email": "reciption@gmail.com",
+      "phone": "0102225695455",
+      "gender": "female",
+      "NID": "4",
+      "salary": "999999999999855",
+      "department": "Heart",
+      "role": "Secrtry",
+      "img": null,
+      "Bdate": "2024-06-09",
+      "image": "C:\\fakepath\\images.jpeg",
+      "type": "XRay"
+    },
+    {
+      "id": "b167",
+      "firstname": "Hadeer",
+      "lastname": "hamid2",
+      "password": "1234566666666666",
+      "email": "reciption@gmail.com",
+      "phone": "0102225695455",
+      "gender": "female",
+      "NID": "5",
+      "salary": "999999999999855",
+      "department": "Heart",
+      "role": "Secrtry",
+      "img": null,
+      "Bdate": "2024-06-09",
+      "image": "C:\\fakepath\\images.jpeg",
+      "type": "Test"
+    },
+    {
+      "id": "b167",
+      "firstname": "shahd",
+      "lastname": "hamid2",
+      "password": "1234566666666666",
+      "email": "reciption@gmail.com",
+      "phone": "0102225695455",
+      "gender": "female",
+      "NID": "1",
+      "salary": "999999999999855",
+      "department": "Heart",
+      "role": "Secrtry",
+      "img": null,
+      "Bdate": "2024-06-09",
+      "image": "C:\\fakepath\\images.jpeg",
+      "type": "Pharmacy"
+    },
+    {
+      "id": "b1bc",
+      "name": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "gender": "",
+      "country": ""
+    }
+  ],
+  "profile": [
+    {
+      "id": "1076",
+      "firstname": "nehal",
+      "lastname": "hamid3",
+      "email": "reciption@gmail.com",
+      "phone": "0102222255",
+      "description": "sssssssss",
+      "image": {}
+    }
+  ],
+  "patientHistory": [
+    {
+      "NID": "1",
+      "Patientname": "nehal",
+      "Age": "40",
+      "Xray": [
+        {
+          "xray1": "file1.pdf",
+          "xray2": "file2.pdf",
+          "xray3": "file3.pdf",
+          "xray4": "file4.pdf"
+        }
+      ],
+      "Tests": [
+        {
+          "test1": "file1.pdf",
+          "test2": "file2.pdf",
+          "test3": "file3.pdf",
+          "test4": "file4.pdf"
+        }
+      ],
+      "id": "acfa",
+      "Symptoms": "Heat,cough",
+      "Diagnosis": "Corona",
+      "Medicine": [
+        {
+          "medicine1": "corona",
+          "medicine2": "corona2",
+          "medicine3": "corona3"
+        }
+      ],
+      "DoctorName": "Ahmed"
+    },
+    {
+      "NID": "3",
+      "Patientname": "sama2",
+      "Age": "20",
+      "Xray": [
+        {
+          "xray1": "file11.pdf",
+          "xray2": "file22.pdf",
+          "xray3": "file33.pdf",
+          "xray4": "file4.pdf"
+        }
+      ],
+      "Tests": [
+        {
+          "test1": "file11.pdf",
+          "test2": "file22.pdf",
+          "test3": "file3233.pdf",
+          "test4": "file4444.pdf"
+        }
+      ],
+      "id": "eeb5",
+      "Symptoms": "Heat,cough",
+      "Diagnosis": "Corona",
+      "Medicine": [
+        {
+          "medicine1": "corona",
+          "medicine2": "corona2",
+          "medicine3": "corona3"
+        }
+      ],
+      "DoctorName": "Ahmed"
+    },
+    {
+      "id": "88a2",
+      "Doctorname": "Ahmed",
+      "NID": "3",
+      "Diagnosis": "corrrrrrrrrrrrona",
+      "Symptoms": "heaaaaaaaaat",
+      "Medicine": [
+        {
+          "medicine1": "corona",
+          "medicine2": "corona2",
+          "medicine3": "corona3"
+        }
+      ]
+    },
+    {
+      "id": "369b",
+      "Doctorname": "Ahmed",
+      "NID": "3",
+      "Diagnosis": "corrrrrrrrrrrrona",
+      "Symptoms": "heaaaaaaaaat",
+      "Medicine": [
+        {
+          "medicine1": "corona",
+          "medicine2": "corona2",
+          "medicine3": "corona3"
+        }
+      ]
+    },
+    {
+      "id": "76f5",
+      "Doctorname": "Ahmed",
+      "NID": "3",
+      "Diagnosis": "corrrrrrrrrrrrona",
+      "Symptoms": "heaaaaaaaaat",
+      "Medicine": [
+        {
+          "medicine1": "corona",
+          "medicine2": "corona2",
+          "medicine3": "corona3"
+        }
+      ]
+    },
+    {
+      "id": "0daf",
+      "patientID": "1",
+      "medicineName": "corona",
+      "checked": true
+    },
+    {
+      "id": "6163",
+      "patientID": "1",
+      "medicineName": "corona2",
+      "checked": true
+    },
+    {
+      "id": "16a0",
+      "patientID": "1",
+      "medicineName": "corona3",
+      "checked": true
+    },
+    {
+      "id": "f8f4",
+      "patientID": "1",
+      "medicineName": "corona",
+      "checked": true
+    },
+    {
+      "id": "5a36",
+      "patientID": "1",
+      "medicineName": "corona",
+      "checked": true
+    },
+    {
+      "id": "b24c",
+      "patientID": "1",
+      "medicineName": "corona",
+      "checked": true
+    },
+    {
+      "id": "65ba",
+      "Doctorname": "hamed",
+      "NID": "0",
+      "Diagnosis": "ppppppppppppp",
+      "Symptoms": "kkkkkkk",
+      "Medicine": "lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll",
+      "role": "Doctor"
+    }
+  ],
+  "Transfer": [
+    {
+      "id": "23cb",
+      "FromdoctorName": "nour",
+      "TodoctorName": "sama",
+      "patientID": "1",
+      "department": "Heart",
+      "hospital": "university_hospital"
+    },
+    {
+      "id": "f274",
+      "FromdoctorName": "kkk",
+      "TodoctorName": "uytrew",
+      "patientID": "2",
+      "department": "Heart",
+      "hospital": "women_health_hospital"
+    },
+    {
+      "id": "7406",
+      "FromdoctorName": "ll",
+      "TodoctorName": "kkk",
+      "patientID": "0",
+      "department": "Heart",
+      "hospital": "university_hospital",
+      "role": "Doctor"
+    }
+  ],
+  "xrayRequests": [
+    {
+      "id": "e6a5",
+      "patientID": "1",
+      "xrayType": "CT scanning"
+    },
+    {
+      "id": "368a",
+      "patientID": "2",
+      "xrayType": "CT scanning",
+      "role": "doctor"
+    },
+    {
+      "id": "7dcb",
+      "patientID": "1",
+      "xrayType": "fluoroscopy",
+      "role": "Doctor"
+    },
+    {
+      "id": "371b",
+      "patientID": "1",
+      "xrayType": "CT scanning",
+      "role": "Doctor"
+    }
+  ],
+  "testRequests": [
+    {
+      "id": "e6a5",
+      "patientID": "1",
+      "xrayType": "CT scanning"
+    },
+    {
+      "id": "368a",
+      "patientID": "2",
+      "xrayType": "CT scanning",
+      "role": "doctor"
+    },
+    {
+      "id": "4924",
+      "patientID": "",
+      "testType": "fluoroscopy",
+      "role": "Doctor"
+    },
+    {
+      "id": "0fdb",
+      "patientID": "",
+      "testType": "fluoroscopy",
+      "role": "Doctor"
+    },
+    {
+      "id": "dd88",
+      "patientID": "",
+      "testType": "fluoroscopy",
+      "role": "Doctor"
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": "d08c"
+    },
+    {
+      "id": "9658",
+      "nationalID": "1",
+      "hospitalName": "rahma",
+      "feedback": "kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+      "rate": 3,
+      "role": "Patient"
+    },
+    {
+      "id": "f0aa",
+      "nationalID": "2",
+      "hospitalName": "awal",
+      "feedback": "tooooooooooooooooooooooofffffffffffffffffffffffffff",
+      "rate": 5,
+      "role": "Patient"
+    },
+    {
+      "id": "929e",
+      "nationalID": "10",
+      "hospitalName": "sama",
+      "feedback": "gggggggggggggggggggggggggggggggggggggggggggggggggg",
+      "rate": 4,
+      "role": "Patient"
+    }
+  ],
+  "patientTests": [
+    {
+      "test": "https://www.ilovepdf.com/",
+      "test2": "https://www.ilovepdf.com/",
+      "test3": "https://www.ilovepdf.com/",
+      "test4": "https://www.ilovepdf.com/",
+      "test5": "https://www.ilovepdf.com/",
+      "test6": "https://www.ilovepdf.com/",
+      "id": "9718"
+    }
+  ],
+  "patientXray": [
+    {
+      "xray": "https://www.ilovepdf.com/t",
+      "xray2": "https://www.ilovepdf.com/t",
+      "xray3": "https://www.ilovepdf.com/t",
+      "xray4": "https://www.ilovepdf.com/t",
+      "xray5": "https://www.ilovepdf.com/t",
+      "xray6": "https://www.ilovepdf.com/t",
+      "id": "4673"
+    }
+  ],
+  "patientExam": [
+    {
+      "xray": "https://www.ilovepdf.com/e",
+      "xray2": "https://www.ilovepdf.com/e",
+      "xray3": "https://www.ilovepdf.com/e",
+      "xray4": "https://www.ilovepdf.com/e",
+      "xray5": "https://www.ilovepdf.com/e",
+      "xray6": "https://www.ilovepdf.com/e",
+      "id": "96ed"
+    }
+  ],
+  "patientHospital": [
+    {
+      "id": "2047",
+      "hospital": "women_health_hospital",
+      "department": "children"
+    },
+    {
+      "id": "7361",
+      "hospital": "women_health_hospital",
+      "department": "heart"
+    },
+    {
+      "id": "cf59",
+      "hospital": "university_hospital",
+      "department": "children"
+    },
+    {
+      "id": "45ae",
+      "hospital": "children_university_hospital",
+      "department": "children"
+    },
+    {
+      "id": "bf52",
+      "hospital": "women_health_hospital",
+      "department": "bones"
+    }
+  ],
+  "patientHospitalBooking": [
+    {
+      "id": "7127",
+      "nationalID": "2",
+      "name": "m"
+    },
+    {
+      "id": "6b26",
+      "nationalID": "2",
+      "name": "mariam"
+    },
+    {
+      "id": "0ad4",
+      "nationalID": "2",
+      "name": "sama osama"
+    },
+    {
+      "id": "9480",
+      "nationalID": "1",
+      "name": "sama"
+    }
+  ],
+  "nurseShifts": [
+    {
+      "nurseName": "Nancy",
+      "patientID": "1",
+      "shiftTime": "8:00 AM - 11:00 AM",
+      "id": "1dd9"
+    },
+    {
+      "nurseName": "Nour",
+      "patientID": "2",
+      "shiftTime": "8:00 AM - 11:00 AM",
+      "id": "81f5"
+    },
+    {
+      "nurseName": "Nour",
+      "patientID": "3",
+      "shiftTime": "8:00 AM - 11:00 AM",
+      "id": "5d43"
+    },
+    {
+      "nurseName": "Lila",
+      "patientID": "4",
+      "shiftTime": "8:00 AM - 11:00 AM",
+      "id": "7270"
+    },
+    {
+      "nurseName": "Lila",
+      "patientID": "5",
+      "shiftTime": "8:00 AM - 11:00 AM",
+      "id": "5c11"
+    },
+    {
+      "nurseName": "Ahmed",
+      "patientID": "1",
+      "shiftTime": "11:00 AM - 2:00 PM",
+      "id": "fa89"
+    },
+    {
+      "nurseName": "Ahmed",
+      "patientID": "2",
+      "shiftTime": "11:00 AM - 2:00 PM",
+      "id": "a351"
+    },
+    {
+      "nurseName": "Mohamed",
+      "patientID": "3",
+      "shiftTime": "11:00 AM - 2:00 PM",
+      "id": "f06e"
+    },
+    {
+      "nurseName": "Mohamed",
+      "patientID": "4",
+      "shiftTime": "11:00 AM - 2:00 PM",
+      "id": "501e"
+    },
+    {
+      "nurseName": "rania",
+      "patientID": "6",
+      "shiftTime": "2:00 PM - 5:00 PM",
+      "id": "49c9"
+    },
+    {
+      "nurseName": "hadeer",
+      "patientID": "6",
+      "shiftTime": "2:00 PM - 5:00 PM",
+      "id": "a821"
+    },
+    {
+      "nurseName": "sama",
+      "patientID": "7",
+      "shiftTime": "2:00 PM - 5:00 PM",
+      "id": "992b"
+    },
+    {
+      "nurseName": "Nehal",
+      "patientID": "1",
+      "shiftTime": "5:00 PM - 8:00 PM",
+      "id": "a356"
+    },
+    {
+      "nurseName": "Ali",
+      "patientID": "3",
+      "shiftTime": "5:00 PM - 8:00 PM",
+      "id": "149e"
+    },
+    {
+      "nurseName": "Ali",
+      "patientID": "4",
+      "shiftTime": "5:00 PM - 8:00 PM",
+      "id": "cf67"
+    },
+    {
+      "nurseName": "Hamza",
+      "patientID": "6",
+      "shiftTime": "5:00 PM - 8:00 PM",
+      "id": "d442"
+    },
+    {
+      "nurseName": "Shahad",
+      "patientID": "7",
+      "shiftTime": "8:00 PM - 11:00 PM",
+      "id": "2973"
+    },
+    {
+      "nurseName": "Shahad",
+      "patientID": "5",
+      "shiftTime": "8:00 PM - 11:00 PM",
+      "id": "168c"
+    },
+    {
+      "nurseName": "Sara",
+      "patientID": "4",
+      "shiftTime": "8:00 PM - 11:00 PM",
+      "id": "4aee"
+    },
+    {
+      "nurseName": "Alaa",
+      "patientID": "3",
+      "shiftTime": "8:00 PM - 11:00 PM",
+      "id": "8a79"
+    }
+  ],
+  "nurseMedicine": [
+    {
+      "patientID": "1",
+      "timeSlot": "8:00 AM - 10:00 AM",
+      "medicineName": "Aspirin",
+      "id": "3c75"
+    },
+    {
+      "patientID": "2",
+      "timeSlot": "10:00 AM - 12:00 PM",
+      "medicineName": "Paracetamol",
+      "id": "03c3"
+    },
+    {
+      "patientID": "2",
+      "timeSlot": "4:00 PM - 6:00 PM",
+      "medicineName": "Ibuprofen",
+      "id": "1151"
+    },
+    {
+      "patientID": "3",
+      "timeSlot": "10:00 AM - 12:00 PM",
+      "medicineName": "Amoxicillin",
+      "id": "9c8b"
+    },
+    {
+      "patientID": "3",
+      "timeSlot": "2:00 PM - 4:00 PM",
+      "medicineName": "Ciprofloxacin",
+      "id": "3252"
+    },
+    {
+      "patientID": "4",
+      "timeSlot": "10:00 AM - 12:00 PM",
+      "medicineName": "Metformin",
+      "id": "770c"
+    },
+    {
+      "patientID": "4",
+      "timeSlot": "2:00 PM - 4:00 PM",
+      "medicineName": "Lisinopril",
+      "id": "96af"
+    },
+    {
+      "patientID": "4",
+      "timeSlot": "8:00 AM - 10:00 AM",
+      "medicineName": "Metoprolol",
+      "id": "0162"
+    },
+    {
+      "patientID": "6",
+      "timeSlot": "10:00 AM - 12:00 PM",
+      "medicineName": "Simvastatin",
+      "id": "6231"
+    },
+    {
+      "patientID": "6",
+      "timeSlot": "2:00 PM - 4:00 PM",
+      "medicineName": "Levothyroxine",
+      "id": "dfc9"
+    }
+  ],
+  "InsertedMedicine": [
+    {
+      "id": "620e",
+      "patientID": "2",
+      "medicineName": "Paracetamol",
+      "timeSlot": "10:00 AM - 12:00 PM",
+      "checked": true
+    },
+    {
+      "id": "fb00",
+      "patientID": "2",
+      "medicineName": "Paracetamol",
+      "timeSlot": "10:00 AM - 12:00 PM",
+      "checked": true
+    },
+    {
+      "id": "de0b",
+      "patientID": "1",
+      "medicineName": "Aspirin",
+      "timeSlot": "8:00 AM - 10:00 AM",
+      "checked": true
+    }
+  ],
+  "nurseAction": [
+    {
+      "id": "049f",
+      "nationalID": "1",
+      "nurseID": "2",
+      "notes": "injection"
+    },
+    {
+      "id": "b030",
+      "nationalID": "2",
+      "nurseID": "3",
+      "notes": "lllllllll"
+    },
+    {
+      "id": "bfa3",
+      "nationalID": "4",
+      "nurseID": "6",
+      "notes": "ll"
+    },
+    {
+      "id": "ea53",
+      "nationalID": "5",
+      "nurseID": "2",
+      "notes": "pppppppppppppp"
+    }
+  ],
+  "patients": [
+    {
+      "id": "4ec8",
+      "fullname": "nour",
+      "password": "123456",
+      "email": "patient@gmail.com",
+      "phone": "01091115659",
+      "gender": "female",
+      "department": "Heart",
+      "NID": "158",
+      "img": "Blue Night Girl Cartoon Desktop Wallpaper.png",
+      "Bdate": "2024-06-06"
+    },
+    {
+      "id": "eaf2",
+      "fullname": "sama",
+      "password": "12333333333",
+      "email": "patient@gmail.com",
+      "phone": "01022256954",
+      "gender": "female",
+      "department": "Children",
+      "NID": "118",
+      "img": "WhatsApp Image 2023-12-12 at 1.15.28 PM (1).jpeg",
+      "Bdate": "2024-07-07"
+    },
+    {
+      "id": "58e9",
+      "fullname": "sama",
+      "password": "123654",
+      "email": "patient@gmail.com",
+      "phone": "01033556985",
+      "gender": "female",
+      "department": "Heart",
+      "NID": "200",
+      "img": "images.jpeg",
+      "Bdate": "2024-06-02"
+    }
+  ],
+  "Report": [
+    {
+      "Doctors who have rate up 3.5": "Some specific text for Doctors who have rate up 3.5 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore omnis, ad quibusdam quam obcaecati sequi quasi vitae qui suscipit modi fugit. Facere quae velit unde eligendi maxime incidunt fugit corrupti",
+      "Hospitals with pharmacy": "Some specific text for Hospitals with pharmacy Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore omnis, ad quibusdam quam obcaecati sequi quasi vitae qui suscipit modi fugit. Facere quae velit unde eligendi maxime incidunt fugit corrupti.",
+      "id": "d1d5"
+    }
+  ],
+  "Payment": [
+    {
+      "NID": "1",
+      "Services": [
+        {
+          "xray": "100$",
+          "Exam": "70$",
+          "Test": "90$"
+        }
+      ],
+      "Name": "Ahmed",
+      "id": "66a2"
+    },
+    {
+      "NID": "2",
+      "Services": [
+        {
+          "xray2": "1000$",
+          "Exam2": "700$",
+          "Test3": "900$"
+        }
+      ],
+      "Name": "Ali",
+      "id": "6e4f"
+    }
+  ],
+  "OperationRoom": [
+    {
+      "id": "19d3",
+      "nationalID": "1",
+      "name": "sama",
+      "department": "Children",
+      "room_num": "1"
+    },
+    {
+      "id": "7a2f",
+      "nationalID": "2",
+      "name": "sama",
+      "department": "Heart",
+      "room_num": "5"
+    }
+  ],
+  "NormalRoom": [
+    {
+      "id": "60f9"
+    },
+    {
+      "id": "d15f",
+      "nationalID": "2",
+      "name": "sama",
+      "department": "Heart",
+      "type": "Single",
+      "room_num": "2"
+    }
+  ],
+  "Clinical": [
+    {
+      "img": "/src/images/3.jpg",
+      "name": "Robert john",
+      "desc": "Chief Medical Officer Explicabo voluptatem mollitia et repellat qui dolorum quasi",
+      "Region": "Assuite center",
+      "Department": "Bones",
+      "id": "0d87"
+    },
+    {
+      "img": "/images/3.jpg",
+      "name": "john Robert",
+      "desc": "2Chief Medical Officer Explicabo voluptatem mollitia et repellat qui dolorum quasi",
+      "Region": "Ibnob",
+      "Department": "Heart",
+      "id": "602c"
+    },
+    {
+      "img": "/src/images/3.jpg",
+      "name": "Robert 3john",
+      "desc": "3Chief Medical Officer Explicabo voluptatem mollitia et repellat qui dolorum quasi",
+      "Region": "Assuite center",
+      "Department": "Bones",
+      "id": "9e6f"
+    },
+    {
+      "img": "/src/images/3.jpg",
+      "name": "Robert john",
+      "desc": "Chief Medical Officer Explicabo voluptatem mollitia et repellat qui dolorum quasi",
+      "Region": "Assuite center",
+      "Department": "Bones",
+      "id": "b25a"
+    },
+    {
+      "img": "https://www.google.com/search?q=online+images&rlz=1C1GCEB_enEG1088EG1088&oq=online+images&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEINzAwNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=YyMWya9p3qIFIM&vssid=l&ip=1",
+      "name": "Robert john",
+      "desc": "Chief Medical Officer Explicabo voluptatem mollitia et repellat qui dolorum quasi",
+      "Region": "Ibnob",
+      "Department": "Heart",
+      "id": "ae08"
+    },
+    {
+      "img": "https://www.google.com/search?q=online+images&rlz=1C1GCEB_enEG1088EG1088&oq=online+images&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEINzAwNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=YyMWya9p3qIFIM&vssid=l&ip=1",
+      "name": "Robert john",
+      "desc": "Chief Medical Officer Explicabo voluptatem mollitia et repellat qui dolorum quasi",
+      "Region": "Ibnob",
+      "Department": "Heart",
+      "id": "05e0"
+    }
+  ],
+  "ClinicalAppointment": [
+    {
+      "id": "bf7f"
+    },
+    {
+      "id": "270c",
+      "patientId": "22",
+      "appointments": []
+    },
+    {
+      "id": "2c35",
+      "patientId": "55",
+      "appointments": [
+        "8:15 - 8:30"
+      ]
+    },
+    {
+      "id": "74df",
+      "patientId": "66",
+      "appointments": [
+        "8:45 - 9:00"
+      ]
+    },
+    {
+      "id": "f26a",
+      "patientId": "22",
+      "appointments": [
+        "9:15 - 9:30"
+      ]
+    },
+    {
+      "id": "c967",
+      "patientId": "22",
+      "appointments": [
+        "9:15 - 9:30"
+      ]
+    },
+    {
+      "id": "37be",
+      "patientId": "2",
+      "appointments": []
+    },
+    {
+      "id": "e23b",
+      "patientId": "22",
+      "appointments": [
+        "8:15 - 8:30"
+      ]
+    },
+    {
+      "id": "9a97",
+      "patientId": "25",
+      "appointments": [
+        "10:15 - 10:30"
+      ]
+    },
+    {
+      "id": "d25c",
+      "patientId": "5",
+      "appointments": [
+        "8:00 - 8:15"
+      ]
+    },
+    {
+      "id": "f41e",
+      "patientId": "55",
+      "appointments": [
+        "8:15 - 8:30"
+      ]
+    },
+    {
+      "id": "876a",
+      "patientId": "80",
+      "appointments": [
+        "9:15 - 9:30"
+      ]
+    },
+    {
+      "id": "6faa",
+      "patientId": "90",
+      "appointments": [
+        "10:15 - 10:30"
+      ]
+    }
+  ],
+  "HospitalBooking": [
+    {
+      "id": "8abc",
+      "nationalID": "20",
+      "name": "bnm",
+      "hospital": "university_hospital",
+      "department": "heart"
+    }
+  ],
+  "Xray": [
+    {
+      "nationalID": "20",
+      "name": "sama",
+      "type": "xray ",
+      "timeSlot": "8:00 AM - 10:00 AM",
+      "id": "0082"
+    },
+    {
+      "nationalID": "23",
+      "name": "nour",
+      "type": "xray2 ",
+      "timeSlot": "10:00 AM - 12:00 PM",
+      "id": "eb22"
+    },
+    {
+      "nationalID": "40",
+      "name": "laila",
+      "type": "xray3 ",
+      "timeSlot": "12:00 PM - 2:00 PM",
+      "id": "441b"
+    },
+    {
+      "id": "7f9c",
+      "nationalID": "20",
+      "name": "sama",
+      "type": "xray ",
+      "timeSlot": "2:00 PM - 4:00 PM",
+      "checked": true
+    },
+    {
+      "id": "52a7",
+      "nationalID": "25",
+      "name": "nour",
+      "type": "xray2 ",
+      "timeSlot": "10:00 AM - 12:00 PM",
+      "checked": true
+    },
+    {
+      "id": "5248",
+      "nationalID": "20",
+      "name": "sama",
+      "type": "xray ",
+      "timeSlot": "2:00 PM - 4:00 PM",
+      "checked": true
+    },
+    {
+      "id": "ffd8",
+      "nationalID": "40",
+      "name": "laila",
+      "type": "xray3 ",
+      "timeSlot": "12:00 PM - 2:00 PM",
+      "role": "XRay",
+      "checked": true
+    }
+  ],
+  "Tests": [
+    {
+      "nationalID": "20",
+      "name": "sama",
+      "type": "test1 ",
+      "timeSlot": "8:00 AM - 10:00 AM",
+      "id": "9996"
+    },
+    {
+      "nationalID": "22",
+      "name": "noor",
+      "type": "test2 ",
+      "timeSlot": "10:00 AM - 12:00 PM",
+      "id": "591e"
+    },
+    {
+      "nationalID": "23",
+      "name": "nnnnn",
+      "type": "test ",
+      "timeSlot": "2:00 PM - 4:00 PM",
+      "id": "f3af"
+    },
+    {
+      "id": "c407",
+      "nationalID": "22",
+      "name": "noor",
+      "type": "test2 ",
+      "timeSlot": "10:00 AM - 12:00 PM",
+      "checked": true
+    },
+    {
+      "id": "22c8",
+      "nationalID": "22",
+      "name": "noor",
+      "type": "test2 ",
+      "timeSlot": "10:00 AM - 12:00 PM",
+      "role": "Test",
+      "checked": true
+    }
+  ],
+  "Login": [
+    {
+      "email": "nosama022@gmail.com",
+      "pass": "123456",
+      "role": "Doctor",
+      "id": "c536"
+    },
+    {
+      "email": "nour022@gmail.com",
+      "pass": "1236",
+      "role": "Nurse",
+      "id": "f3c6"
+    },
+    {
+      "email": "nana@gmail.com",
+      "pass": "123456789",
+      "role": "Xray",
+      "id": "b741"
+    },
+    {
+      "email": "rabnia@gmail.com",
+      "pass": "1233333",
+      "role": "Test",
+      "id": "48e5"
+    },
+    {
+      "email": "hadeeeeeer22@gmail.com",
+      "pass": "12345678955",
+      "role": "IT",
+      "id": "f552"
+    },
+    {
+      "email": "Dina22@gmail.com",
+      "pass": "123456888",
+      "role": "Patient",
+      "id": "871b"
+    },
+    {
+      "email": "mnar@gmail.com",
+      "pass": "123456",
+      "role": "Phar",
+      "id": "1f07"
+    },
+    {
+      "email": "lila@gmail.com",
+      "pass": "123456",
+      "role": "Reception",
+      "id": "c447"
+    },
+    {
+      "id": "bd11",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "93d8",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "c0cf",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "0ef3",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "5bc7",
+      "email": "nour022@gmail.com",
+      "password": "1236"
+    },
+    {
+      "id": "c79a",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "9646",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "7082",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "8fac",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "f21b",
+      "email": "nour022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "ec3b",
+      "email": "nour022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "4b12",
+      "email": "nour022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "11e4",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "ed9a",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "524f",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "d109",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "59d5",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "5926",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "8bfb",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "edf5",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "81c3",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "ff6c",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "64b5",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "eceb",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "a7d0",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "c1f6",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "22b2",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "d9e8",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "f1cc",
+      "email": "nosama022@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "XrayRes": [
+    {
+      "id": "4627",
+      "NID": "1",
+      "role": "XRay",
+      "img": "103516188-512-k191587.jpg"
+    },
+    {
+      "id": "b81b",
+      "NID": "2",
+      "role": "XRay",
+      "img": "images.jpeg"
+    },
+    {
+      "id": "8ace",
+      "NID": "3",
+      "role": "XRay",
+      "img": "images.jpeg"
+    }
+  ],
+  "TestRes": [
+    {
+      "id": "96f3",
+      "NID": "5",
+      "role": "XRay",
+      "img": "WhatsApp Image 2023-12-12 at 1.15.28 PM (1).jpeg"
+    }
+  ],
+  "types": [
+    {
+      "Doctor": "Doctor",
+      "id": "6f6e"
+    }
+  ]
+}
